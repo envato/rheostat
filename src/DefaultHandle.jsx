@@ -17,8 +17,7 @@ export const propTypes = forbidExtraProps({
 const defaultProps = {
   ...handleDefaultProps,
   'aria-valuetext': undefined,
-  'aria-label': undefined,
-  'title': undefined
+  'aria-label': undefined
 };
 
 function DefaultHandle({
