@@ -18,6 +18,7 @@ const defaultProps = {
   ...handleDefaultProps,
   'aria-valuetext': undefined,
   'aria-label': undefined,
+  'title': undefined
 };
 
 function DefaultHandle({
